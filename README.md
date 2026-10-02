@@ -14,12 +14,6 @@ Slabs and stairs for every terracotta block — plain Terracotta and all 16 dyed
 - **Recipes:** crafting table and stonecutter, unlocked in the recipe book as soon as you pick up the matching terracotta.
 - **Creative menu:** found in the Colored Blocks tab, right after vanilla terracotta.
 
-## Requirements
-
-- Minecraft 26.3
-- [Fabric Loader](https://fabricmc.net/use/) 0.19.5 or newer
-- [Fabric API](https://modrinth.com/mod/fabric-api)
-
 ## License
 
 Licensed under the [Mozilla Public License 2.0](LICENSE).
