@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "more-terracotta",
+	"version": "${version}",
+	"name": "More Terracotta",
+	"description": "Adds slabs and stairs for terracotta and all 16 dyed terracotta colors, using only vanilla textures.",
+	"authors": [
+		"Linkered"
+	],
+	"license": "MPL-2.0",
+	"icon": "assets/more-terracotta/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.linkered.moreterracotta.MoreTerracotta"
+		],
+		"fabric-datagen": [
+			"com.linkered.moreterracotta.datagen.MoreTerracottaDataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

@@ -1,0 +1,4 @@
+// 26.3	-999999999-01-01T00:00:00	More Terracotta/Tags for minecraft:block
+c3202f51ee72d2ee43d950581d9c4f5655e95523 data/minecraft/tags/block/mineable/pickaxe.json
+f67cbfbf3dc893e27c8b6813846e845095406f1a data/minecraft/tags/block/slabs.json
+414f1e6f70578c0d6c34829b42c21f2e1776bedf data/minecraft/tags/block/stairs.json

@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# Minecraft run directory (worlds, logs, screenshots, configs)
+run/
+
+# IntelliJ IDEA: keep only the shared run configurations
+.idea/*
+!.idea/runConfigurations/
+*.iml
+
+# macOS
+.DS_Store
