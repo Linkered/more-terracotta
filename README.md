@@ -2,7 +2,11 @@
 
 # More Terracotta
 
-Slabs and stairs for every terracotta block — plain Terracotta and all 16 dyed colors.
+> **Minecraft 26.3 finally gave wool and concrete their own stairs and slabs… so where's terracotta?**
+> Still waiting by the kiln.
+
+**More Terracotta** fires up the missing pieces: stairs and slabs for plain Terracotta and all 16 dyed colors,
+built to look and feel like they shipped with the game.
 
 ## Features
 
