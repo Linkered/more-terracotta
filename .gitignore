@@ -11,5 +11,8 @@ run/
 !.idea/runConfigurations/
 *.iml
 
+# Local design sources (logo, banner, renders)
+media(ignore)/
+
 # macOS
 .DS_Store

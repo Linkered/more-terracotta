@@ -18,6 +18,17 @@ built to look and feel like they shipped with the game.
 - **Recipes:** crafting table and stonecutter, unlocked in the recipe book as soon as you pick up the matching terracotta.
 - **Creative menu:** found in the Colored Blocks tab, right after vanilla terracotta.
 
+<details>
+<summary><b>Why no walls?</b></summary>
+
+<br>
+
+In vanilla, walls belong to rough, masonry-style blocks like cobblestone, bricks and raw stone. Smooth blocks such as
+quartz, purpur, smooth stone and concrete get stairs and slabs, but no walls. Terracotta is a smooth block, and 26.3
+gave its closest relative, concrete, exactly stairs and slabs. More Terracotta follows the same rule.
+
+</details>
+
 ## License
 
 Licensed under the [Mozilla Public License 2.0](LICENSE).
