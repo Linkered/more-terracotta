@@ -8,7 +8,7 @@
 		"Linkered"
 	],
 	"contact": {
-		"homepage": "https://github.com/Linkered/more-terracotta",
+		"homepage": "https://modrinth.com/mod/more-terracotta",
 		"sources": "https://github.com/Linkered/more-terracotta",
 		"issues": "https://github.com/Linkered/more-terracotta/issues"
 	},
@@ -27,6 +27,6 @@
 		"fabricloader": ">=0.19.5",
 		"minecraft": "~26.3",
 		"java": ">=25",
-		"fabric-api": "*"
+		"fabric-api": ">=0.161.0"
 	}
 }
